@@ -23,8 +23,8 @@ Cenário: 3) Realizar Cadastro
 	Dado um visitante não cadastrado que acessou a tela inicial
 	Quando Clicar no botão Novo Cadastro
 	E preencher todos os campos do formulário de cadastro corretamente
-	| Nome  | Sobrenome | Como gostaria de ser chamado? | Email                     | Veículo | País   | Cidade   | DDD | Telefone | DDD | Celular   | Twitter | Instagram         | Senha           | Confirmação de Senha |
-	| Breno | Borges    | Breno                         |mailtestemail@email.com    | Fiesta  | Brasil | Anápolis | 62  | 99259414 | 62  | 992153445 | bfranca | brenoborgesfranca  | @XDFXDFCDFdds# |@XDFXDFCDFdds#        |
+	| Nome  | Sobrenome | Como gostaria de ser chamado? | Email                      | Veículo | País   | Cidade   | DDD | Telefone | DDD | Celular   | Twitter | Instagram         | Senha           | Confirmação de Senha |
+	| Breno | Borges    | Breno                         |novomailtestex@email.com    | Fiesta  | Brasil | Anápolis | 62  | 99259414 | 62  | 992153445 | bfranca | brenoborgesfranca  | @XDFXDFCDFdds# |@XDFXDFCDFdds#        |
 	E clicar no botão SOLICITAR CADASTRO
 	Então a mensaggem de cadastro com sucesso deverá ser exibida
 
