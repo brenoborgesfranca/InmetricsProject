@@ -32,6 +32,9 @@ adicione o caminho do ficheiro.
 
 ![alt text](https://github.com/executeautomation/SeleniumWithSpecflow/blob/master/report.png)
 
+
+Para conferir o Relatório de Teste, vá até o ficheiro configurado e abra o Arquivo ExtentReport.html
+
 ## 4. Selecionando o Brownser de sua escolha para rodar os testes
 
 Para configurar o brownser para rodar os testes acesse a pasta Steps no projeto, em seguida abra a classe CadadtroSteps.cs, e no método `public void Init()`
