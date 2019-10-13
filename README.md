@@ -5,7 +5,7 @@ Este projeto de teste foi desenvolvido utilizando [Specflow](https://specflow.or
 
 ## 1. Pré Requisitos
 
-[Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/vs/?rr=https%3A%2F%2Fwww.google.com%2F)
+[Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/vs/?rr=https%3A%2F%2Fwww.google.com%2F) e
 [SpecFlow for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio)
 
 Certifique-se que  Visutal Studio e O Puglin do SpecFlow foram instalados corretamente e siga os próximos passos.
