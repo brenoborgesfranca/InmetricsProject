@@ -23,7 +23,7 @@ Certifique-se que  Visutal Studio e O Puglin do SpecFlow foram instalados corret
 
 Este projeto utiliza o [Extent Reports](http://extentreports.com/) para gerar relatório dos testes automatizados.
 
-Então para configurar o relatório de testes, é necessário configurar o ficheiro para salvar o relatório de testes automatizados.
+Então para configurar o relatório de testes, é necessário configurar o Path absoluto para salvar o relatório de testes automatizados.
 
 Para isso acesse a pasta Steps no projeto, em seguida abra a classe CadadtroSteps.cs, e no método `public static void InitializeReport()`
 adicione o caminho do ficheiro.
