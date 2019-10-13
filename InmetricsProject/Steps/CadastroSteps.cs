@@ -32,7 +32,7 @@ namespace TesteInmetrics
 
 
            //Para escolhero navegador é só setar o driver de sua escolha
-            this.Browser = new FirefoxDriver ();
+           this.Browser = new ChromeDriver ();
             scenario = featureName.CreateNode<Scenario>(ScenarioContext.Current.ScenarioInfo.Title);
         }
         [AfterScenario]
