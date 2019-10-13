@@ -32,10 +32,12 @@ adicione o caminho do ficheiro.
 
 ![alt text](https://github.com/executeautomation/SeleniumWithSpecflow/blob/master/report.png)
 
-## 4. Brownser para rodar os testes
+## 4. Selecionando o Brownser de sua escolha para rodar os testes
 
 Para configurar o brownser para rodar os testes acesse a pasta Steps no projeto, em seguida abra a classe CadadtroSteps.cs, e no método `public void Init()`
 adicione o driver do navegador desejado:
+
+Lembrando que é necessário que os navegadores estejam instalados em sua máquina.
 
 Exemplo: Chrome
 `  this.Browser = new ChromeDriver ();`
