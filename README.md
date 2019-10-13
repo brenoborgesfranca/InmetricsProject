@@ -35,7 +35,7 @@ adicione o caminho do ficheiro.
 
 Para conferir o Relatório de Teste, vá até o ficheiro configurado e abra o Arquivo ExtentReport.html
 
-## 4. Selecionando o Brownser de sua escolha para rodar os testes
+## 4. Selecionando o Browser de sua escolha para rodar os testes
 
 Para configurar o brownser para rodar os testes acesse a pasta Steps no projeto, em seguida abra a classe CadadtroSteps.cs, e no método `public void Init()`
 adicione o driver do navegador desejado:
@@ -49,5 +49,6 @@ Exemplo: Firefox
 Exemplo: Edge
 `this.Browser = new EdgeDriver ();`
 
-
-
+## 5. Algumas Observações
+Como não utilizo o faker para geração de dados, No cenário 3, Caso já tenha sido executado uma vez, é necessário que altere o e-mail 
+do usuário, pois o sistema não permite cadastrar mais de um usuário com o mesmo e-mail.
