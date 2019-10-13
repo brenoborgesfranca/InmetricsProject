@@ -50,5 +50,4 @@ Exemplo: Edge
 `this.Browser = new EdgeDriver ();`
 
 ## 5. Algumas Observações
-Como não utilizo o faker para geração de dados, No cenário 3, Caso já tenha sido executado uma vez, é necessário que altere o e-mail 
-do usuário, pois o sistema não permite cadastrar mais de um usuário com o mesmo e-mail.
+Como não utilizo o faker para geração de dados, No cenário 3, Caso o teste já tenha sido executado uma vez, é necessário que altere o e-mail do usuário para ser aprovado, pois o sistema não permite cadastrar mais de um usuário com o mesmo e-mail.
