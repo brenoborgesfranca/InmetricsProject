@@ -30,7 +30,7 @@ adicione o caminho do ficheiro.
 
 `var htmlReporter = new ExtentHtmlReporter(@"C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\ExtentReport.html");`
 
-![alt text](https://github.com/executeautomation/SeleniumWithSpecflow/blob/master/report.png)
+![alt text](https://github.com/brenoborgesfranca/InmetricsProject/blob/master/ExtentHtml.PNG)
 
 
 Para conferir o Relatório de Teste, vá até o ficheiro configurado e abra o Arquivo ExtentReport.html
