@@ -1,0 +1,92 @@
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\geckodriver.exe
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\InmetricsProject.dll.config
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\InmetricsProject.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\InmetricsProject.pdb
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\DnsClient.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\ExtentReports.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Bson.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Driver.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\nunit.framework.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\RazorEngine.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\System.Buffers.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\System.Web.Razor.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\WebDriver.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\DnsClient.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Bson.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Driver.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\nunit.framework.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\RazorEngine.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\System.Web.Razor.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\WebDriver.xml
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\obj\Debug\InmetricsProject.csproj.CopyComplete
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\obj\Debug\InmetricsProject.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\obj\Debug\InmetricsProject.pdb
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\obj\Debug\InmetricsProject.csprojAssemblyReference.cache
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\WebDriver.Support.dll
+C:\Users\breno\source\repos\InmetricsProject\InmetricsProject\bin\Debug\WebDriver.Support.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\geckodriver.exe
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\InmetricsProject.dll.config
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\InmetricsProject.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\InmetricsProject.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\DnsClient.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\ExtentReports.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Bson.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Driver.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\nunit.framework.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\RazorEngine.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\System.Buffers.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\System.Web.Razor.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\WebDriver.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\WebDriver.Support.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\DnsClient.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Bson.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Driver.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\nunit.framework.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\RazorEngine.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\System.Web.Razor.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\WebDriver.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\bin\Debug\WebDriver.Support.xml
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\obj\Debug\InmetricsProject.csprojAssemblyReference.cache
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\obj\Debug\InmetricsProject.csproj.CopyComplete
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\obj\Debug\InmetricsProject.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\InmetricsProjectAc\InmetricsProject\obj\Debug\InmetricsProject.pdb
